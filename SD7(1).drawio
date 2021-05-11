@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-11T17:58:36.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="JIHI9Z2LYyKiIQlXDLfM" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-11T18:03:22.414Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="KGX1UzQloq33hib7oxyn" version="14.6.11" type="github">
   <diagram id="Ju46hfrnIvMHlg701ugM" name="Page-1">
     <mxGraphModel dx="1730" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           <mxGeometry x="460" y="90" width="120" height="690" as="geometry" />
         </mxCell>
         <mxCell id="a5flfGsr-aM0QTPhlgH4-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="a5flfGsr-aM0QTPhlgH4-12" vertex="1">
-          <mxGeometry x="55" y="155" width="10" height="105" as="geometry" />
+          <mxGeometry x="55" y="155" width="10" height="185" as="geometry" />
         </mxCell>
         <mxCell id="a5flfGsr-aM0QTPhlgH4-13" value=":Webcam System" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="90" width="120" height="690" as="geometry" />
@@ -85,9 +85,9 @@
         <mxCell id="a5flfGsr-aM0QTPhlgH4-43" value="acknowledge" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="a5flfGsr-aM0QTPhlgH4-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="330" as="sourcePoint" />
-            <mxPoint x="225" y="328" as="targetPoint" />
+            <mxPoint x="225" y="320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="225" y="328" />
+              <mxPoint x="225" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -234,6 +234,32 @@
               <mxPoint x="1120" y="670" />
               <mxPoint x="1120" y="670" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LFFDFLmRJ5X7tg_cdlID-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="a5flfGsr-aM0QTPhlgH4-28" target="a5flfGsr-aM0QTPhlgH4-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="390" />
+              <mxPoint x="310" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LFFDFLmRJ5X7tg_cdlID-7" value="printStereo(stereoSound)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LFFDFLmRJ5X7tg_cdlID-2">
+          <mxGeometry x="-0.1116" y="-1" relative="1" as="geometry">
+            <mxPoint x="-23" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LFFDFLmRJ5X7tg_cdlID-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="a5flfGsr-aM0QTPhlgH4-18" target="a5flfGsr-aM0QTPhlgH4-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="420" />
+              <mxPoint x="310" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LFFDFLmRJ5X7tg_cdlID-6" value="acknowledge" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LFFDFLmRJ5X7tg_cdlID-4">
+          <mxGeometry x="-0.0582" y="2" relative="1" as="geometry">
+            <mxPoint x="12" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
