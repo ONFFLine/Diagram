@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T02:42:18.406Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="rJ-JteRpyUTuACZ0rkJs" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-12T04:48:12.060Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="wxRiQNOlweU1n6QUXvEG" version="14.6.10" type="github">
   <diagram id="qNtHvHr-Q_ltwnV1EGBj" name="Page-1">
     <mxGraphModel dx="1298" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,7 +18,7 @@
         <mxCell id="Hz_aNHwt8BgAc0QITuWz-25" value="- meetingRoomView : Meeting Room View" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Hz_aNHwt8BgAc0QITuWz-24" vertex="1">
           <mxGeometry y="26" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Hz_aNHwt8BgAc0QITuWz-28" value="- meetingRoomData : Meeting Room Model" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Hz_aNHwt8BgAc0QITuWz-24" vertex="1">
+        <mxCell id="Hz_aNHwt8BgAc0QITuWz-28" value="- meetingRoomData : Meeting Room Data" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Hz_aNHwt8BgAc0QITuWz-24" vertex="1">
           <mxGeometry y="52" width="270" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Hz_aNHwt8BgAc0QITuWz-48" value="- chatPanel : Chatting Panel" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Hz_aNHwt8BgAc0QITuWz-24" vertex="1">
@@ -137,12 +137,12 @@
         </mxCell>
         <mxCell id="kpZ02T7lmeoDotmEzYPB-1" value="0..*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gz0RsTwGi9bUB4MpCDVb-4" vertex="1" connectable="0">
           <mxGeometry x="-0.58" y="-4" relative="1" as="geometry">
-            <mxPoint x="9" y="-8" as="offset" />
+            <mxPoint x="2" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kpZ02T7lmeoDotmEzYPB-2" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gz0RsTwGi9bUB4MpCDVb-4" vertex="1" connectable="0">
           <mxGeometry x="0.64" y="-2" relative="1" as="geometry">
-            <mxPoint y="-8" as="offset" />
+            <mxPoint y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hz_aNHwt8BgAc0QITuWz-60" value="Meeting Room Data" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
