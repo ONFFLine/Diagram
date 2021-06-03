@@ -1,1 +1,161 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T23:17:19.898Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="czDLovz_fea2zyPvRCgQ" version="14.7.3" type="github"><diagram id="QXM7okLhdMr8AQxh6Bgx" name="Page-1">7Vvfc6M2EP5rPHN9SMb8hsfYzrWducxkzndz16eOAopRA4gKcTb311cCYUBgG2xo3SR5SNAiVmj307e7Eplpy3D3KwGx/4A9GMzUubebaauZqjqOwn5zQVYIbEUrBBuCvEKkVII1+gmFcC6kKfJg0uhIMQ4oiptCF0cRdGlDBgjB22a3Zxw0R43BBrYEaxcEbek35FFfzEK1KvlvEG38cmTFdIo7ISg7i5kkPvDwtibS7mfakmBMi6twt4QBt11pl+K5jwfu7l+MwIj2eWCBHl6cPxfW/XeFUPz1JntJFzeGWqj5AYJUzHim3T1ASFG0YfLPGIfszxJHlOAggETMhWalgdi0Yn6ZhsEn9AwDFLHWIoYEhZCy/toqEOLHSrbY+ojCdQxc/uiWIYfJfBoGrKWwS+ZNCtgjZN8OAhAn6Ckfdc4kBLopSdAP+BkmBWi4FKeUj7Tcg4ELxQwhoXB30HbK3iMMyRCz9yQZ61I+YAknZiU6RXtbYUIpHe3X8GA6QggEDjd73ZWr2IXw1hDPaW3Pyb6pWTTGKKL5OxiLmbGSXIQJ9fEGRyCoO6mX4Y7A6qA5DaNpTa3Dmh3G3Pcb35h61zJYgnfsq6qmXh/2zS53rXEaee8OU/UrJCvrmsnKHERWZfsUWdnGVMa0u9D/DT65OV+ts4TC8G1C37w+rjLnnVzFzAtx7OMIuW/cZ9b10ZWpXDFdmfOj5pTpyuyXW9mT2bKzwlj6gACXm+I9XjtXSFod+XBP3wBCkYtikM+d3btzKSb/ndO4ZxAr5+8CtImYjGKuOGHjsAL3C2+sNPOQc4UeayxHN/3csTL1Di9bk1U9pnHNNKcftaUi0Zzaj+YMazJjtmuSr0kHpTFD0Ca0E8Z+Lwx5AV8nqwjn6+gZBYEkAgLCLjNcblwZ2yHyPD5M51oivDqC3hDaGuSXYaBWJ3NDu9IIkft7FKcUeh9+OYZv2ZxPmFIcshsw8u74ViJHeQyjLz6KWgaF3gauhdpqKdxXUq7lI+KTqTmAPzWUTGqWLYM2gQGgjPkaqrpMK7Q98pVcW0uKfuvUfiyrsbZUXWtqTHBKXCiUqLUdR0kve3KQXgrIBtKWXmZ7kNW6CR46PB2JZ8txDr3mif7soniDCpR7b1yA03YRx+ZelAUfEg6ti7H6FGD35SKgKgOAyt40h8WROZdbloWfj3W0/i3oa1Lx0cqD+2LdUE8oGgncutE9zqH3OtF/InA7LXAD9yXC2yDH0QgczCQeSPwc1UpxW5wd2Wcg/nwyvhB+pxiyNORQNJ5idFnvSODcp1zSOAcDxPH+04CzXPGvDZx9CPgAr16IYl0KoJp+JomqWjOr1+TSZyycHhhnWty1N5WSPNyLc4tXjLtyP+3swH8hQB0pCOoyrvoC1J6fUDQSQE2JGDX5bH9Y/4kA3XkK95mhDpLi64G3vrOnqNe3tWd1nh7V92MfQcS/4XmTDpPrgStwmN1Opgn8O4UJzR3EI0jBwaMFkdezs2HIgX6usbzYtlkCoDq6opR58eA4oDb1MmWTxAH5/ctxJuX18pO9Go5OY6CJmarPJ5zvsXME/gUpzURCAlKKm1QgZy4SJs/DWO+cuEduUuyWX5qbDE5V7e6M42AKfbx/EzHt7RD1vERpNOipp4LTMk0YbaGfzOQ4Yu0VoOCNxqr59cUqp8eJUntt14wMd4h+59e3c0UV7T+4zW412xLt1a6MTLyR1Ro1bxYyln5mXN3N/FbRlVJSKLQcqxRUGvNWVm+1dU5EROVp3Bi7o0aH141xQqqpSRRhnllLmTJTKf1qqdG4pl2+xKxu2e/BV7V5eyf+f3SId5xE5DNpzW5zyEjnd6xZfexeOLH6jwHt/h8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-03T00:17:51.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="wGNiHzNoJ_LFt7tMow5q" version="14.7.3" type="github">
+  <diagram id="QXM7okLhdMr8AQxh6Bgx" name="Page-1">
+    <mxGraphModel dx="649" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BiMk9_B7EX1rtoU-ykuB-52" value=":Meeting Room Controller" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="170" y="100" width="120" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="BiMk9_B7EX1rtoU-ykuB-53" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="BiMk9_B7EX1rtoU-ykuB-52" vertex="1">
+          <mxGeometry x="55" y="130" width="10" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="BiMk9_B7EX1rtoU-ykuB-56" value=":Page Controller" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="360" y="100" width="120" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="BiMk9_B7EX1rtoU-ykuB-57" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="BiMk9_B7EX1rtoU-ykuB-56" vertex="1">
+          <mxGeometry x="55" y="155" width="10" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="BiMk9_B7EX1rtoU-ykuB-60" value=":Meeting Room &lt;br&gt;View" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="560" y="100" width="120" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="BiMk9_B7EX1rtoU-ykuB-61" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="BiMk9_B7EX1rtoU-ykuB-60" vertex="1">
+          <mxGeometry x="55" y="160" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="BiMk9_B7EX1rtoU-ykuB-64" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;size=70;" parent="1" vertex="1">
+          <mxGeometry x="90" y="60" width="40" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="BiMk9_B7EX1rtoU-ykuB-65" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="BiMk9_B7EX1rtoU-ykuB-64" vertex="1">
+          <mxGeometry x="15" y="120" width="10" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="BiMk9_B7EX1rtoU-ykuB-66" value="User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="BiMk9_B7EX1rtoU-ykuB-64" vertex="1">
+          <mxGeometry y="60" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BiMk9_B7EX1rtoU-ykuB-67" value="access meeting room&lt;br&gt;via the link" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=1;" parent="1" edge="1">
+          <mxGeometry y="3" width="80" relative="1" as="geometry">
+            <mxPoint x="114.99999999999977" y="243" as="sourcePoint" />
+            <mxPoint x="224.99999999999977" y="243" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="243" />
+              <mxPoint x="190" y="243" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiMk9_B7EX1rtoU-ykuB-68" value="Meeting Room Info" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=1;" parent="1" source="BiMk9_B7EX1rtoU-ykuB-53" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="370" y="280" as="sourcePoint" />
+            <mxPoint x="414" y="278" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="278" />
+              <mxPoint x="310" y="278" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiMk9_B7EX1rtoU-ykuB-70" value="acknowledge" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="BiMk9_B7EX1rtoU-ykuB-57" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="340" as="sourcePoint" />
+            <mxPoint x="235" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="235" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiMk9_B7EX1rtoU-ykuB-78" value=":Account&lt;br&gt;Controller" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="960" y="100" width="120" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="BiMk9_B7EX1rtoU-ykuB-92" value=":SignIn&lt;br&gt;View" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="760" y="100" width="120" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="b4w5KYIhBNjsbUTUgyb7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="292" as="sourcePoint" />
+            <mxPoint x="615" y="292" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="292" />
+              <mxPoint x="530" y="292" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b4w5KYIhBNjsbUTUgyb7-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;changePage&lt;br&gt;(MeetingRoom)&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="460" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b4w5KYIhBNjsbUTUgyb7-6" value="acknowledge" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="611" y="320" as="sourcePoint" />
+            <mxPoint x="427" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="431" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b4w5KYIhBNjsbUTUgyb7-7" value="Meeting Room" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;dashed=1;" edge="1" parent="1" source="BiMk9_B7EX1rtoU-ykuB-61" target="BiMk9_B7EX1rtoU-ykuB-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="400" />
+              <mxPoint x="260" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b4w5KYIhBNjsbUTUgyb7-11" value="VerifyInput" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="b4w5KYIhBNjsbUTUgyb7-8" target="b4w5KYIhBNjsbUTUgyb7-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="950" y="490" />
+              <mxPoint x="950" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b4w5KYIhBNjsbUTUgyb7-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="815" y="440" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="b4w5KYIhBNjsbUTUgyb7-9" value="input id &amp;amp; password" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;entryX=0.114;entryY=0.156;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="114" y="464.9599999999998" as="sourcePoint" />
+            <mxPoint x="815.1400000000001" y="464.9599999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b4w5KYIhBNjsbUTUgyb7-14" value="VerifyUserInfo" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="b4w5KYIhBNjsbUTUgyb7-10" target="b4w5KYIhBNjsbUTUgyb7-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1110" y="510" />
+              <mxPoint x="1110" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b4w5KYIhBNjsbUTUgyb7-17" value="acknowledge" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="b4w5KYIhBNjsbUTUgyb7-10" target="b4w5KYIhBNjsbUTUgyb7-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="560" />
+              <mxPoint x="890" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b4w5KYIhBNjsbUTUgyb7-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="460" width="10" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="b4w5KYIhBNjsbUTUgyb7-12" value=":User Data" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="100" width="120" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="b4w5KYIhBNjsbUTUgyb7-15" value="acknowledge" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;dashed=1;" edge="1" parent="1" source="b4w5KYIhBNjsbUTUgyb7-13" target="b4w5KYIhBNjsbUTUgyb7-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1160" y="540" />
+              <mxPoint x="1160" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b4w5KYIhBNjsbUTUgyb7-18" value="signIn Success" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="b4w5KYIhBNjsbUTUgyb7-13" target="BiMk9_B7EX1rtoU-ykuB-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="620" />
+              <mxPoint x="480" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b4w5KYIhBNjsbUTUgyb7-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="480" width="10" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
