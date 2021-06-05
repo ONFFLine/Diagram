@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-05T19:06:35.554Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="w3vtLDlxbG529au3uznI" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-05T19:29:57.877Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="X6Ag5dp_MyXSeYFwZ4fY" version="14.7.6" type="github">
   <diagram id="ZjnRwveFM_BUh7OXPmVa" name="Page-1">
-    <mxGraphModel dx="1463" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2125" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,7 +45,7 @@
         <mxCell id="vTQT-JO-9am4ozHGMmtE-10" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="vTQT-JO-9am4ozHGMmtE-9" vertex="1">
           <mxGeometry x="45" y="160" width="10" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="mOhKWQVGn4z5CyU4qf0u-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vTQT-JO-9am4ozHGMmtE-9" source="vTQT-JO-9am4ozHGMmtE-10">
+        <mxCell id="mOhKWQVGn4z5CyU4qf0u-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="vTQT-JO-9am4ozHGMmtE-9" source="vTQT-JO-9am4ozHGMmtE-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55" y="220" as="targetPoint" />
             <Array as="points">
@@ -53,7 +53,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mOhKWQVGn4z5CyU4qf0u-2" value="createRoomID()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mOhKWQVGn4z5CyU4qf0u-1">
+        <mxCell id="mOhKWQVGn4z5CyU4qf0u-2" value="createRoomID()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mOhKWQVGn4z5CyU4qf0u-1" vertex="1" connectable="0">
           <mxGeometry x="-0.0286" y="2" relative="1" as="geometry">
             <mxPoint x="23" as="offset" />
           </mxGeometry>
@@ -116,17 +116,17 @@
         <mxCell id="vTQT-JO-9am4ozHGMmtE-26" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="vTQT-JO-9am4ozHGMmtE-25" vertex="1">
           <mxGeometry x="45" y="320" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="vTQT-JO-9am4ozHGMmtE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;endArrow=block;endFill=1;" parent="1" source="vTQT-JO-9am4ozHGMmtE-10" target="vTQT-JO-9am4ozHGMmtE-26" edge="1">
+        <mxCell id="vTQT-JO-9am4ozHGMmtE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;endArrow=open;endFill=0;" parent="1" source="vTQT-JO-9am4ozHGMmtE-10" target="vTQT-JO-9am4ozHGMmtE-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-70" y="400" />
-              <mxPoint x="-70" y="400" />
+              <mxPoint x="60" y="420" />
+              <mxPoint x="60" y="420" />
             </Array>
             <mxPoint x="-277" y="450" as="sourcePoint" />
             <mxPoint x="357" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vTQT-JO-9am4ozHGMmtE-28" value="changeView(meetingRoom)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" parent="vTQT-JO-9am4ozHGMmtE-27" vertex="1" connectable="0">
+        <mxCell id="vTQT-JO-9am4ozHGMmtE-28" value="change meeting room view" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" parent="vTQT-JO-9am4ozHGMmtE-27" vertex="1" connectable="0">
           <mxGeometry x="0.4625" y="1" relative="1" as="geometry">
             <mxPoint x="-115" y="1" as="offset" />
           </mxGeometry>
@@ -202,7 +202,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vTQT-JO-9am4ozHGMmtE-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;endArrow=open;endFill=0;" parent="1" source="vTQT-JO-9am4ozHGMmtE-10" target="vTQT-JO-9am4ozHGMmtE-52" edge="1">
+        <mxCell id="vTQT-JO-9am4ozHGMmtE-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;endArrow=block;endFill=1;" parent="1" source="vTQT-JO-9am4ozHGMmtE-10" target="vTQT-JO-9am4ozHGMmtE-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-160" y="290" />
@@ -231,6 +231,32 @@
             </Array>
             <mxPoint x="-583" y="500" as="sourcePoint" />
             <mxPoint x="-760" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Eq2Muka-244SZmRAvOPP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="vTQT-JO-9am4ozHGMmtE-10" target="vTQT-JO-9am4ozHGMmtE-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-340" y="370" />
+              <mxPoint x="-340" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Eq2Muka-244SZmRAvOPP-4" value="acknowledge" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Eq2Muka-244SZmRAvOPP-2">
+          <mxGeometry x="0.1294" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Eq2Muka-244SZmRAvOPP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="vTQT-JO-9am4ozHGMmtE-8" target="vTQT-JO-9am4ozHGMmtE-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-300" y="400" />
+              <mxPoint x="-300" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Eq2Muka-244SZmRAvOPP-6" value="changeView()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Eq2Muka-244SZmRAvOPP-5">
+          <mxGeometry x="-0.0588" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
