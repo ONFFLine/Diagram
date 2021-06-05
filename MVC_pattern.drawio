@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-05T02:50:24.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="3Gg7it7pXTqs0x-yajp1" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-05T04:37:01.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="vyXbzo-VzHI4HK-lDiJZ" version="14.7.6" type="github">
   <diagram id="6Cmy_OJPE_gC6r0TOcEK" name="Page-1">
-    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1592" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LpMyZovRpZkSS5u4zfX3-31" value="&lt;&lt;subsystem&gt;&gt;&#xa;Controller" style="swimlane;startSize=50;" parent="1" vertex="1">
-          <mxGeometry x="-190" y="210" width="410" height="440" as="geometry" />
+          <mxGeometry x="-190" y="210" width="450" height="440" as="geometry" />
         </mxCell>
         <mxCell id="LpMyZovRpZkSS5u4zfX3-66" value="&amp;lt;&amp;lt;subsystem&amp;gt;&amp;gt;&lt;br&gt;Rendering Controller" style="whiteSpace=wrap;html=1;" parent="LpMyZovRpZkSS5u4zfX3-31" vertex="1">
           <mxGeometry x="10" y="270" width="120" height="70" as="geometry" />
@@ -83,6 +83,9 @@
         </mxCell>
         <mxCell id="wee3c2WqPa5s1IGmSt6Y-84" value="&amp;lt;&amp;lt;subsystem&amp;gt;&amp;gt;&lt;br&gt;Account Controller" style="whiteSpace=wrap;html=1;" parent="LpMyZovRpZkSS5u4zfX3-31" vertex="1">
           <mxGeometry x="140" y="350" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NIA7nYOzTcYZrWAWfxLf-1" value="&amp;lt;&amp;lt;subsystem&amp;gt;&amp;gt;&lt;br&gt;Screen Sharing Controller" style="whiteSpace=wrap;html=1;" vertex="1" parent="LpMyZovRpZkSS5u4zfX3-31">
+          <mxGeometry x="270" y="305" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vep_De73C5PHQTmgVMdR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LpMyZovRpZkSS5u4zfX3-38" target="LpMyZovRpZkSS5u4zfX3-31" edge="1">
           <mxGeometry relative="1" as="geometry">
